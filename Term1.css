@@ -1,0 +1,11 @@
+h1{
+    color: brown;
+    text-align: center;
+}
+.heading{
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
